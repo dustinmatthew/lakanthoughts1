@@ -44,6 +44,7 @@ d. https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.0-9/18198988_1525844667447609_757
 e.	https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-128.png
 f.	https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-128.png
 g.	Ang Saligang-Batas ng UP LAKAN (2017)
+h. https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-9/23844961_1745930675439006_736211532052793095_n.jpg?oh=f5e556bdb1b5a2049da54a84f1a9edf9&oe=5A903F22
 
 Project Timeline and Deadline:
 Activities - Date
