@@ -22,6 +22,8 @@ I.	Structure or Site Map
   o	Members and	Officers
   o	Affiliations
   o	Awards
+•	Member's Information
+•	Search
 •	Contact Us
 
 II.	Functional Requirements
